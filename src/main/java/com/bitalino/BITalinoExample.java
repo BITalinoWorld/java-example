@@ -20,6 +20,10 @@ import javax.microedition.io.StreamConnection;
 
 import com.google.gson.Gson;
 
+import com.bitalino.comm.BITalinoDevice;
+import com.bitalino.comm.BITalinoException;
+import com.bitalino.comm.BITalinoFrame;
+
 /**
  * Example on how to work with BITalino from Java.
  */
